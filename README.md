@@ -110,7 +110,7 @@ The Power BI dashboard includes:
 
 ---
 
-## Dashboard Screenshot
+![Dashboard](dashboard_screenshot.png)
 
 Online Retail Sales Analytics Dashboard
 <img width="1919" height="1016" alt="Dashboard Screenshot" src="https://github.com/user-attachments/assets/4bf4670c-a3a8-488c-bb08-383ea351f03b" />
