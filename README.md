@@ -81,16 +81,27 @@ Main preparation steps included:
 ## Project Workflow
 
 Raw Data (Excel)
+
 ↓
+
 Data Cleaning (Python & Power Query)
+
 ↓
+
 Data Validation (SQL)
+
 ↓
+
 KPI Development (DAX)
+
 ↓
+
 Dashboard Development (Power BI)
+
 ↓
+
 Business Insights & Recommendations
+
 
 ---
 ## Dashboard Overview
