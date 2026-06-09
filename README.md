@@ -43,12 +43,12 @@ After data preparation, the analysis was performed on more than 500,000 transact
 
 ### Key Metrics
 
-| Metric              | Value   |
-| ------------------- | ------- |
-| Total Revenue       | $10.67M |
-| Total Orders        | 20K     |
-| Total Customers     | 4K      |
-| Total Quantity Sold | 6M      |
+| Metric | Value |
+| :----- | ----: |
+| Total Revenue | $10.67M |
+| Total Orders | 20,000+ |
+| Total Customers | 4,000+ |
+| Total Quantity Sold | 6.0M |
 
 ---
 
